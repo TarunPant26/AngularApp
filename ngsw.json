@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1634996974317,
+  "timestamp": 1634998620638,
   "index": "https://tarunpant26.github.io/AngularApp/index.html",
   "assetGroups": [
     {
@@ -52,7 +52,7 @@
     "https://tarunpant26.github.io/AngularApp/index.html": "a6d36ba271e54b8bafcaa3531b750df79de1891e",
     "https://tarunpant26.github.io/AngularApp/main-es2015.f79f2d253927a7988587.js": "88a6af8fe3215e84ee3d9038058d0d8dde3a75cf",
     "https://tarunpant26.github.io/AngularApp/main-es5.f79f2d253927a7988587.js": "85e345f380a0b1c24081fd97056d7316b4050c83",
-    "https://tarunpant26.github.io/AngularApp/manifest.webmanifest": "7e82f5bc22d5f6ec812162297ff5cd7a98be8ee0",
+    "https://tarunpant26.github.io/AngularApp/manifest.webmanifest": "7348d260db506d30b04c7de00e58069e2adf80ab",
     "https://tarunpant26.github.io/AngularApp/polyfills-es2015.f332a089ad1600448873.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
     "https://tarunpant26.github.io/AngularApp/polyfills-es5.177e85a9724683782539.js": "cb1e2d25bf2b29b2dfe65e4431d47f930f3b3b1b",
     "https://tarunpant26.github.io/AngularApp/runtime-es2015.0dae8cbc97194c7caed4.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
